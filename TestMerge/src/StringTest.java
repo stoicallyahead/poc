@@ -9,7 +9,6 @@ public class StringTest {
 		System.out.println("Last name is: " + last + " and first name is: " + first);
 		System.out.println("merge conflict");
 		
-		
 	}
 
 }
