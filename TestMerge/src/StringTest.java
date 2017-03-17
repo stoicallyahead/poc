@@ -10,6 +10,15 @@ public class StringTest {
 		
 		System.out.println("updated");
 		
+		
+		System.out.println("local");
+		
+		System.out.println("local");
+		
+		
+		System.out.println("local");
+		
+		System.out.println("local");
 	}
 
 }
