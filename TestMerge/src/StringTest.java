@@ -11,6 +11,7 @@ public class StringTest {
 		System.out.println("feature topic branch");
 		
 		System.out.println("feature topic second branch");
+		System.out.println("feature topic second branch second change");
 	}
 
 }
