@@ -8,14 +8,9 @@ public class StringTest {
 		
 		System.out.println("Last name is: " + last + " and first name is: " + first);
 		
-		System.out.println("updated");
-		
-		
-		System.out.println("local");
-		
-		System.out.println("local");
-		
 		System.out.println("feature topic branch");
+		
+		System.out.println("feature topic second branch");
 	}
 
 }
